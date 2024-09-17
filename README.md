@@ -20,6 +20,8 @@ Explore detailed notebooks and projects for the following libraries:
 
 …and more to come!
 
+![alt text](image.png)
+
 ## 🎓 What You'll Find Here
 - 📘 **Detailed Notes**: Each notebook includes clear explanations and documentation to help you understand the concepts behind each library.
 - 💡 **Practice Questions**: Sharpen your skills with well-thought-out practice exercises.
