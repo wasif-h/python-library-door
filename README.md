@@ -41,7 +41,7 @@ This repo is designed to help you **learn by doing**. By walking through these n
 ## 🎯 How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/wasif-h/your-repo-name.git
    ```
 2. Navigate to a notebook and start exploring:
    ```bash
